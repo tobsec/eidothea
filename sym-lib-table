@@ -1,4 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "vnld5090")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/vnld5090.lib")(options "")(descr "ST VNLD5090 - Low side drivers"))
   (lib (name "infineon_psu")(type "Legacy")(uri "${KIPRJMOD}/infineon_psu.lib")(options "")(descr ""))
   (lib (name "tle9201_2")(type "Legacy")(uri "${KIPRJMOD}/tle9201_2.lib")(options "")(descr ""))
@@ -8,5 +9,5 @@
   (lib (name "lmr14020")(type "Legacy")(uri "${KIPRJMOD}/lmr14020.lib")(options "")(descr ""))
   (lib (name "bts4175")(type "Legacy")(uri "${KIPRJMOD}/bts4175.lib")(options "")(descr ""))
   (lib (name "proteus-rescue")(type "Legacy")(uri "${KIPRJMOD}/proteus-rescue.lib")(options "")(descr ""))
-  (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/Connector_Automotive/Connector_Automotive.kicad_sym")(options "")(descr ""))
+  (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/Connector_Automotive.kicad_sym")(options "")(descr ""))
 )
