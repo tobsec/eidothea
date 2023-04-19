@@ -992,7 +992,7 @@
     (property "Datasheet" "~" (at 111.125 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25744" (at 111.125 48.895 0)
+    (property "LCSC" "C60485" (at 111.125 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC_ext" "0" (at 111.125 48.895 0)
