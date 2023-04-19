@@ -2765,7 +2765,7 @@
     (property "Datasheet" "~" (at 272.415 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "N/A" (at 272.415 90.17 0)
+    (property "LCSC" "C106564" (at 272.415 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PN" "EEH-AZF1H560B" (at 272.415 90.17 0)

@@ -2068,7 +2068,7 @@
     (property "PN" "EEH-AZF1H560B" (at 99.695 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "N/A" (at 99.695 35.56 0)
+    (property "LCSC" "C106564" (at 99.695 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 364e710b-8f0d-4678-954d-ef99053c2ab2))

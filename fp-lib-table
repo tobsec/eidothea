@@ -8,4 +8,5 @@
   (lib (name "sunlord-MWSA0503")(type "KiCad")(uri "${KIPRJMOD}/sunlord-MWSA0503.pretty")(options "")(descr ""))
   (lib (name "PG-DSO-36-72")(type "KiCad")(uri "${KIPRJMOD}/PG-DSO-36-72.pretty")(options "")(descr ""))
   (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/Connector_Automotive.pretty")(options "")(descr ""))
+  (lib (name "audiojack")(type "KiCad")(uri "${KIPRJMOD}/audiojack.pretty")(options "")(descr ""))
 )
