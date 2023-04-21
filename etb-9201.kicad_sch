@@ -582,7 +582,7 @@
     (property "Value" "TLE9201SG" (at 78.74 29.6164 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:Infineon_PG-DSO-12-9" (at 75.565 41.91 0)
+    (property "Footprint" "Package_SO:Infineon_PG-DSO-12-9_ThermalVias" (at 75.565 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 75.565 41.91 0)
