@@ -1,1 +1,0 @@
-[ibom 0.4](https://rusefi.com/docs/ibom/proteus_0_4_ibom.html)
