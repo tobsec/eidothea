@@ -10,4 +10,5 @@
   (lib (name "bts4175")(type "Legacy")(uri "${KIPRJMOD}/bts4175.lib")(options "")(descr "")(disabled)(hidden))
   (lib (name "proteus-rescue")(type "Legacy")(uri "${KIPRJMOD}/proteus-rescue.lib")(options "")(descr ""))
   (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/Connector_Automotive.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX823")(type "KiCad")(uri "${KIPRJMOD}/MAX823.kicad_sym")(options "")(descr ""))
 )

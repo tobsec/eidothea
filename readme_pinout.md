@@ -1,3 +1,58 @@
-# Proteus Pinout & Wiring
+# Eidothea Pinout & Wiring
 
-### [Please use the official rusEfi Proteus docs here.](https://github.com/rusefi/rusefi/wiki/Proteus-Manual)
+1	IGN1
+2	IGN2
+3	IGN3
+4	IGN4
+5	IGN5
+6	IGN6
+7	IGN7
+8	IGN8
+9	GND
+10	GND
+11	GND
+12	DIGITAL_3
+13	DIGITAL_VR_1
+14	DIGITAL_VR_4
+15	LS4
+16	LS3
+17	LS2
+18	LS1
+19	LS9
+20	LS10
+21	GND
+22	LS5
+23	LS6
+24	LS7
+26	12V_RAW + DIGITAL_2
+27	ETB1-
+28	ETB1+
+28	LS8
+29	CAN+
+30	CAN-
+31	CAN2+
+32	CAN2-
+33	KNOCK_2
+34	AT1
+35	AV9
+36	AV8
+37	AV6
+38	AV3
+39	AV5
+40	LS11_F
+41	LS15_F
+42	LS13_F
+43	12V_MR
+44	12V_MR
+45	5V_SENSOR_1
+46	GND
+47	KNOCK_1
+48	GND
+49	AT2
+50	AV7
+51	AV2
+52	AV4
+53	AV1
+54	LS12_F
+55	LS16_F
+56	LS14_F
