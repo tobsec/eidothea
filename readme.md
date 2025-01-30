@@ -57,7 +57,7 @@ https://github.com/tobsec/JLC-Plugin-for-KiCad/tree/2.3.0-adapt
 
 ## Pinout considerations
 - Rework analog voltage input 2 (AV2) from pull-down to 2.7k pull-up for using it as a third external temperature sensor input (AT)
-<img src="https://github.com/tobsec/eidothea/blob/master/doc/Rework-DIGITAL_3-as-PullDown.png?raw=true">
+<img src="https://github.com/tobsec/eidothea/blob/master/doc/Rework-AV2-as-AT.png?raw=true">
 - Rework digital input 3 (DIGITAL_3) from pull-up to pull-down to use it for starter button/switch
 <img src="https://github.com/tobsec/eidothea/blob/master/doc/Rework-DIGITAL_3-as-PullDown.png?raw=true">
 
